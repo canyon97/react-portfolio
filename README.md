@@ -1,4 +1,4 @@
-# Beautiful Portfolio
+# Portfolio
 
 This is a modern, responsive portfolio website built with React and Vite. It showcases sections like Home, About, Projects, and Contact, with smooth animations and a clean design.
 
